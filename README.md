@@ -49,14 +49,14 @@ go-project-template/
 使用以下命令克隆模板仓库并初始化新项目：
 
 ```bash
-git clone https://github.com/username/go-project-template.git my-new-project
-cd my-new-project
+git clone https://github.com/Kaguya233qwq/go-dev.git your-project
+cd your-project
 ```
 ### 2. 初始化模块
 
 修改 go.mod 文件中的模块路径为新项目名称：
 
-go mod init github.com/username/my-new-project
+go mod init github.com/username/your-project
 
 ### 3. 构建与运行
 
